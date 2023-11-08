@@ -25,7 +25,7 @@
     "libp2p-crypto": "^0.17.8"
   },
   "dependencies": {
-    "@types/ed2curve": "^0.2.2",
+    "@types/ed2curve": "^0.2.3",
     "ed2curve": "^0.3.0",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
     "multibase": "^3.1.0",
